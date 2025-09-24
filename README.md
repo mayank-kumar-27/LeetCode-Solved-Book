@@ -15,12 +15,10 @@ leetcode-solutions/
 │   ├── problem.md
 │   ├── solution.c
 │   ├── solution.py
-│   └── README.md
 ├── 0002_Add_Two_Numbers/
 │   ├── problem.md
 │   ├── solution.c
 │   ├── solution.py
-│   └── README.md
 └── ...
 ```
 
