@@ -12,11 +12,9 @@ A comprehensive collection of LeetCode problems solved in **C** and **Python** w
 ```
 leetcode-solutions/
 ├── 0001_Two_Sum/
-│   ├── problem.md
 │   ├── solution.c
 │   ├── solution.py
 ├── 0002_Add_Two_Numbers/
-│   ├── problem.md
 │   ├── solution.c
 │   ├── solution.py
 └── ...
@@ -25,7 +23,6 @@ leetcode-solutions/
 ## Solution Format
 
 Each problem includes:
-- **problem.md**: Problem statement and examples
 - **solution.c** or/and **solution.py**
 
 ## Language Features
