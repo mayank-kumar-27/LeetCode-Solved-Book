@@ -1,0 +1,1 @@
+int bitwiseComplement(int n) { return n ^ ((1 << (int)log2(n ? n : 1) + 1) - 1); }
