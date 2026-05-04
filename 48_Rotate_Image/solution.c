@@ -1,21 +1,18 @@
-void rotate(int** matrix, int matrixSize, int* matrixColSize) {
-    int n = matrixSize;
+void rotate(int** m, int n, int* mColSize) {
     for (int i = 0; i < n; i++) {
         for (int j = i + 1; j < n; j++) {
-            int temp = matrix[i][j];
-            matrix[i][j] = matrix[j][i];
-            matrix[j][i] = temp;
+            int t = m[i][j];
+            m[i][j] = m[j][i];
+            m[j][i] = t;
         }
     }
     for (int i = 0; i < n; i++) {
-        int left = 0;
-        int right = n - 1;
-        while (left < right) {
-            int temp = matrix[i][left];
-            matrix[i][left] = matrix[i][right];
-            matrix[i][right] = temp;
-            left++;
-            right--;
+        int l = 0, r = n - 1;
+        while (l < r) {
+            int t = m[i][l];
+            m[i][l] = m[i][r];
+            m[i][r] = t;
+            l++; r--;
         }
     }
 }
