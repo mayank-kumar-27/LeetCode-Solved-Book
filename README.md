@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-A comprehensive collection of LeetCode problems solved in **C** and **Python** with optimized implementations.
+A comprehensive collection of LeetCode problems solved in **C, Python, and Java** with optimized implementations.
 
 ---
 
@@ -9,74 +9,73 @@ A comprehensive collection of LeetCode problems solved in **C** and **Python** w
 This repository contains my solutions to LeetCode problems, focusing on algorithmic patterns and interview preparation.
 
 **Key Features:**
-- Dual-language implementations (every problem in both C and Python)
-- Pattern-based problem-solving approach
-- Clean, optimized code
+
+* Solutions in **C, Python, or Java**
+* Pattern-based problem-solving approach
+* Clean and optimized implementations
+* Easy-to-navigate repository structure
 
 ---
 
 ## Repository Structure
 
-Each folder represents a single problem with solutions in both languages:
-```
+Each folder represents a single LeetCode problem and contains one or more solutions in **C, Python, or Java**.
+
+```text
 leetcode-solutions/
 ├── 0001_Two_Sum/
 │   ├── solution.c
-│   └── solution.py
+│   ├── solution.py
+│   └── solution.java
 ├── 0002_Add_Two_Numbers/
-│   ├── solution.c
-│   └── solution.py
+│   ├── solution.py
+│   └── solution.java
 ├── 0003_Longest_Substring_Without_Repeating_Characters/
-│   ├── solution.c
-│   └── solution.py
+│   └── solution.c
 └── ...
 ```
 
 **Naming convention:** `<problem_number>_<problem_name>/`
 
-All problems include both `solution.c` and `solution.py`
+Each problem may include solutions in **C, Python, Java**, or any combination of these languages.
 
 ---
 
 ## Languages Used
 
 ### C
-- Low-level memory management
-- Pointer manipulation
-- Performance-optimized solutions
+
+* Low-level memory management
+* Pointer manipulation
+* Performance-oriented implementations
 
 ### Python
-- Pythonic implementations
-- Built-in data structures
-- Clean, readable code
+
+* Pythonic solutions
+* Built-in data structures
+* Clean and readable code
+
+### Java
+
+* Competitive programming style implementations
+* Efficient use of collections and algorithms
+* Interview-friendly solutions
 
 ---
 
 ## Notes
 
-- Every problem solved in both C and Python
-- Focus on time and space complexity optimization
-- Organized for easy reference and review
+* Problems are solved in **C, Python, or Java**
+* Focus on optimizing time and space complexity
+* Organized for quick reference and revision
 
 ---
 
 ## Connect
 
-- **LeetCode:** [Mayank-2007](https://leetcode.com/u/Mayank-2007/)
-- **Codeforces:** [Mayank-2007](https://codeforces.com/profile/Mayank-2007/)
+* **LeetCode:** https://leetcode.com/u/Mayank-2007/
+* **Codeforces:** https://codeforces.com/profile/Mayank-2007/
 
 ---
 
 *Solving problems, one commit at a time.*
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3345-smallest-divisible-digit-product-i](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3345-smallest-divisible-digit-product-i) |
-## Enumeration
-|  |
-| ------- |
-| [3345-smallest-divisible-digit-product-i](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3345-smallest-divisible-digit-product-i) |
-<!---LeetCode Topics End-->
