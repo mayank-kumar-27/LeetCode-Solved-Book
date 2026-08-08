@@ -85,10 +85,12 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Array
 |  |
 | ------- |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -114,4 +116,12 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Sorting
+|  |
+| ------- |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
