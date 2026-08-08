@@ -103,6 +103,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## String
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -111,6 +112,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -124,4 +126,12 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
