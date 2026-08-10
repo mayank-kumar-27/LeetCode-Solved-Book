@@ -101,6 +101,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -136,11 +137,13 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -149,10 +152,12 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
 ## Tree
 |  |
 | ------- |
@@ -169,4 +174,12 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0404-sum-of-left-leaves) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
