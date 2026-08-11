@@ -161,6 +161,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
@@ -173,6 +174,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0404-sum-of-left-leaves) |
 ## Nim Game
 |  |
@@ -182,4 +184,12 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
