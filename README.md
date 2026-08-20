@@ -94,6 +94,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -266,4 +267,8 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0501-find-mode-in-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0938-range-sum-of-bst) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
