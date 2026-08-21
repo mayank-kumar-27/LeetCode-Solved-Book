@@ -134,6 +134,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -194,6 +195,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0701-insert-into-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -202,6 +204,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0501-find-mode-in-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -219,6 +222,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0701-insert-into-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Nim Game
 |  |
@@ -267,8 +271,13 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0501-find-mode-in-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
