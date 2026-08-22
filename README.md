@@ -86,6 +86,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0997-find-the-town-judge) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
@@ -198,6 +199,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0701-insert-into-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -225,6 +227,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0701-insert-into-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Nim Game
@@ -276,6 +279,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0501-find-mode-in-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 ## Simulation
 |  |
@@ -289,4 +293,12 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
