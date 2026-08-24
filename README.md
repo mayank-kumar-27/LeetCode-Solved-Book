@@ -89,6 +89,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -120,6 +121,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -169,22 +171,26 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -192,6 +198,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
