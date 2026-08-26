@@ -225,6 +225,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0938-range-sum-of-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -287,6 +288,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0997-find-the-town-judge](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1791-find-center-of-star-graph) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
