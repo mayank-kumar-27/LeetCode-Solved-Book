@@ -106,6 +106,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0997-find-the-town-judge](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0997-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -117,6 +118,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Counting
 |  |
 | ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -134,6 +136,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## String
 |  |
 | ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1927-sum-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -177,6 +180,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
@@ -294,6 +298,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0997-find-the-town-judge](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1791-find-center-of-star-graph) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Binary Search Tree
@@ -333,4 +338,16 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Topological Sort
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
