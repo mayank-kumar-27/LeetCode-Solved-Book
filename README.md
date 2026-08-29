@@ -90,6 +90,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -128,6 +129,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1927-sum-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -184,6 +186,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -225,6 +228,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0958-check-completeness-of-a-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -234,6 +238,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0543-diameter-of-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -287,6 +292,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0543-diameter-of-binary-tree) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Segment Tree
 |  |
 | ------- |
@@ -301,6 +307,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0997-find-the-town-judge](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1791-find-center-of-star-graph) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Binary Search Tree
@@ -323,6 +330,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Combinatorics
 |  |
 | ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Stack
 |  |
@@ -345,6 +353,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Memoization
 |  |
 | ------- |
@@ -353,4 +362,8 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 <!---LeetCode Topics End-->
