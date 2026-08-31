@@ -371,4 +371,8 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
