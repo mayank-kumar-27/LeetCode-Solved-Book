@@ -291,6 +291,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0067-add-binary](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -340,6 +341,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 ## Combinatorics
 |  |
