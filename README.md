@@ -295,6 +295,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0136-single-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0222-count-complete-tree-nodes) |
+| [0461-hamming-distance](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0461-hamming-distance) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3568-minimum-moves-to-clean-the-classroom) |
