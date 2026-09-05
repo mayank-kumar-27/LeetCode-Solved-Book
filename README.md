@@ -110,6 +110,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [3875-construct-uniform-parity-array-i](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +218,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
 |  |
 | ------- |
