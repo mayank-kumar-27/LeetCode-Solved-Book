@@ -87,6 +87,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0136-single-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0137-single-number-ii) |
+| [0860-lemonade-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0860-lemonade-change) |
 | [0997-find-the-town-judge](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
@@ -174,6 +175,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0409-longest-palindrome) |
+| [0860-lemonade-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1927-sum-game) |
