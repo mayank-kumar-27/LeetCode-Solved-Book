@@ -87,6 +87,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0136-single-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0137-single-number-ii) |
+| [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0860-lemonade-change) |
 | [0997-find-the-town-judge](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -176,6 +177,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
@@ -193,6 +195,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -415,4 +418,8 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
