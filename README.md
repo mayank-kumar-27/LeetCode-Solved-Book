@@ -87,6 +87,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0136-single-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0137-single-number-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0860-lemonade-change) |
@@ -180,6 +181,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0409-longest-palindrome) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0860-lemonade-change) |
@@ -199,6 +201,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Sorting
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
