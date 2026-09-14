@@ -147,6 +147,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0067-add-binary](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
@@ -446,4 +447,8 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
