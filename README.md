@@ -172,6 +172,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1927-sum-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -194,6 +195,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1927-sum-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -218,6 +220,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Two Pointers
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
@@ -232,6 +235,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
