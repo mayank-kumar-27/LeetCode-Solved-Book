@@ -152,6 +152,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1927-sum-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1927-sum-game) |
@@ -234,6 +235,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1025-divisor-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
@@ -251,6 +253,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3904-smallest-stable-index-ii) |
@@ -400,6 +403,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Stack
