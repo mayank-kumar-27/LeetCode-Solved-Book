@@ -148,6 +148,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0067-add-binary](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0836-rectangle-overlap) |
+| [1025-divisor-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
@@ -230,6 +231,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0115-distinct-subsequences](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0115-distinct-subsequences) |
 | [0338-counting-bits](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0338-counting-bits) |
 | [0940-distinct-subsequences-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0940-distinct-subsequences-ii) |
+| [1025-divisor-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -255,6 +257,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
@@ -457,4 +460,12 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0836-rectangle-overlap) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
