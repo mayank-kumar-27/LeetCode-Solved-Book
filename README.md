@@ -96,6 +96,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
@@ -124,6 +125,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0409-longest-palindrome](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0409-longest-palindrome) |
 | [0997-find-the-town-judge](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0997-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -236,6 +238,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1025-divisor-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -339,6 +342,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0222-count-complete-tree-nodes) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
@@ -359,6 +363,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## DP on Trees
