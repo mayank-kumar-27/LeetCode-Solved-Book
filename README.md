@@ -127,6 +127,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0997-find-the-town-judge](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0997-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -175,6 +176,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0115-distinct-subsequences](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0115-distinct-subsequences) |
 | [0409-longest-palindrome](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0409-longest-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1927-sum-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -198,6 +200,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0860-lemonade-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -215,6 +218,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
