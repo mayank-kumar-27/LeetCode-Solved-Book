@@ -157,6 +157,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1137-n-th-tribonacci-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
@@ -482,6 +483,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Brainteaser
 |  |
 | ------- |
