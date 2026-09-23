@@ -87,6 +87,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0041-first-missing-positive](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0041-first-missing-positive) |
 | [0064-minimum-path-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0064-minimum-path-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0137-single-number-ii) |
 | [0322-coin-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0322-coin-change) |
@@ -251,6 +252,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0064-minimum-path-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0338-counting-bits) |
 | [0940-distinct-subsequences-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0940-distinct-subsequences-ii) |
