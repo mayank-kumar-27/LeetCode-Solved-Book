@@ -91,6 +91,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0137-single-number-ii) |
+| [0229-majority-element-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
@@ -134,6 +135,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0001-two-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0041-first-missing-positive) |
+| [0229-majority-element-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0409-longest-palindrome) |
 | [0997-find-the-town-judge](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0997-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
@@ -154,6 +156,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0229-majority-element-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -233,6 +236,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0229-majority-element-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -523,4 +527,8 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0322-coin-change) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
