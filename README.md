@@ -85,6 +85,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0041-first-missing-positive) |
 | [0064-minimum-path-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -131,6 +132,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0041-first-missing-positive) |
 | [0409-longest-palindrome](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0409-longest-palindrome) |
 | [0997-find-the-town-judge](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0997-find-the-town-judge) |
