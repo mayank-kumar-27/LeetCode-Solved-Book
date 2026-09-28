@@ -92,6 +92,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0136-single-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0137-single-number-ii) |
 | [0229-majority-element-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
@@ -256,6 +257,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0287-find-the-duplicate-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -379,6 +381,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -392,6 +395,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0137-single-number-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -543,4 +547,12 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
