@@ -91,6 +91,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0137-single-number-ii) |
+| [0219-contains-duplicate-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0322-coin-change) |
@@ -137,6 +138,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0001-two-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0041-first-missing-positive) |
+| [0219-contains-duplicate-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0409-longest-palindrome) |
 | [0997-find-the-town-judge](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0997-find-the-town-judge) |
@@ -409,6 +411,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
