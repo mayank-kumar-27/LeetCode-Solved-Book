@@ -205,6 +205,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0115-distinct-subsequences](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -234,6 +235,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
@@ -287,6 +289,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0322-coin-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1137-n-th-tribonacci-number) |
@@ -483,6 +486,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0020-valid-parentheses](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -571,6 +575,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0020-valid-parentheses](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
