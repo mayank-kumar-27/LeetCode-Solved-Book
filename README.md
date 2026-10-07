@@ -203,6 +203,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0032-longest-valid-parentheses](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0678-valid-parenthesis-string) |
@@ -229,6 +230,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -372,6 +374,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0404-sum-of-left-leaves) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0958-check-completeness-of-a-binary-tree) |
