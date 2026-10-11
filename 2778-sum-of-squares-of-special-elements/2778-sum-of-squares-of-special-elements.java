@@ -1,15 +1,8 @@
-
 class Solution {
-    public int sumOfSquares(int[] nums) {
-        int n = nums.length;
-        int sum = 0;
-
-        for (int i = 1; i <= n; i++) {
-            if (n % i == 0) {
-                sum += nums[i - 1] * nums[i - 1];
-            }
-        }
-
-        return sum;
+    public int sumOfSquares(int[] a) {
+        int n = a.length;
+        int r = 0;
+        for (int i = 0; i < n; ++i) if (n % (i + 1) == 0) r += a[i] * a[i];
+        return r;
     }
 }
