@@ -86,6 +86,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0041-first-missing-positive) |
 | [0064-minimum-path-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -425,6 +426,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0367-valid-perfect-square) |
