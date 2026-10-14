@@ -179,6 +179,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0067-add-binary](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1137-n-th-tribonacci-number) |
@@ -426,6 +427,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
