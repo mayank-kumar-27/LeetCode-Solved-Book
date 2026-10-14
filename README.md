@@ -98,6 +98,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0875-koko-eating-bananas) |
@@ -425,6 +426,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
