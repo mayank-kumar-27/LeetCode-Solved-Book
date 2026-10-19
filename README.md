@@ -115,6 +115,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1872-stone-game-viii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1872-stone-game-viii) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -289,6 +290,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -446,6 +448,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0875-koko-eating-bananas](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
