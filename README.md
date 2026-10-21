@@ -98,6 +98,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0322-coin-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0835-image-overlap) |
@@ -521,6 +522,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0566-reshape-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
@@ -597,6 +599,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0064-minimum-path-sum) |
+| [0566-reshape-the-matrix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0835-image-overlap) |
 | [1572-matrix-diagonal-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
