@@ -149,6 +149,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [3886-sum-of-sortable-integers](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
