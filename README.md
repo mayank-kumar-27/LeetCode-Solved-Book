@@ -207,6 +207,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1927-sum-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3524-find-x-value-of-array-i) |
@@ -244,6 +245,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1927-sum-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3090-maximum-length-substring-with-two-occurrences) |
