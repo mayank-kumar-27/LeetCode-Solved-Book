@@ -107,6 +107,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0997-find-the-town-judge](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1254-number-of-closed-islands) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -407,6 +408,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0501-find-mode-in-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0938-range-sum-of-bst) |
+| [1254-number-of-closed-islands](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1254-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -420,6 +422,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0322-coin-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0404-sum-of-left-leaves) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1254-number-of-closed-islands) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -564,6 +567,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -606,6 +610,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0064-minimum-path-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0064-minimum-path-sum) |
 | [0566-reshape-the-matrix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3568-minimum-moves-to-clean-the-classroom) |
