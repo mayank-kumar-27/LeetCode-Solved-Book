@@ -142,6 +142,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -415,6 +416,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -425,6 +427,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1254-number-of-closed-islands](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1254-number-of-closed-islands) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -571,6 +574,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -614,6 +618,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1572-matrix-diagonal-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Counting Sort
 |  |
 | ------- |
