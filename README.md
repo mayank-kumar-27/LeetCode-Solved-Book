@@ -88,6 +88,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0001-two-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -534,6 +535,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0566-reshape-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -613,6 +615,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0566-reshape-the-matrix) |
