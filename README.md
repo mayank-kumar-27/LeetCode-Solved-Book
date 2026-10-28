@@ -133,6 +133,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -501,6 +502,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## DP on Trees
 |  |
