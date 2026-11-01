@@ -99,6 +99,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0287-find-the-duplicate-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0605-can-place-flowers) |
@@ -203,6 +204,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0067-add-binary](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0367-valid-perfect-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1137-n-th-tribonacci-number) |
