@@ -94,6 +94,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0137-single-number-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0287-find-the-duplicate-number) |
@@ -316,6 +317,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0229-majority-element-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -333,6 +335,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0215-kth-largest-element-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -577,6 +580,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -727,4 +731,8 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
