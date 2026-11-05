@@ -116,6 +116,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1254-number-of-closed-islands](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1254-number-of-closed-islands) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -323,6 +324,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0561-array-partition) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -347,6 +349,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0392-is-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -495,6 +498,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0367-valid-perfect-square](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2089-find-target-indices-after-sorting-array) |
