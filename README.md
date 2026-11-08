@@ -114,6 +114,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1046-last-stone-weight](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1267-count-servers-that-communicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -204,6 +205,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0229-majority-element-ii) |
+| [1267-count-servers-that-communicate](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1267-count-servers-that-communicate) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2029-stone-game-ix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -449,6 +451,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0543-diameter-of-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1267-count-servers-that-communicate) |
 | [1382-balance-a-binary-search-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1382-balance-a-binary-search-tree) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -465,6 +468,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0404-sum-of-left-leaves](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0404-sum-of-left-leaves) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1267-count-servers-that-communicate) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -625,6 +629,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -671,6 +676,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0566-reshape-the-matrix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3568-minimum-moves-to-clean-the-classroom) |
