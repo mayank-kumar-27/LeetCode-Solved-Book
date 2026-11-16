@@ -279,6 +279,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1927-sum-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -607,6 +608,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [0067-add-binary](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0566-reshape-the-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
