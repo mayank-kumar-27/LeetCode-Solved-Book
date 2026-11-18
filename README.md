@@ -691,6 +691,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Matrix
 |  |
