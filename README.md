@@ -282,6 +282,7 @@ Each problem may include solutions in **C, Python, Java**, or any combination of
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1927-sum-game](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/mayank-kumar-27/LeetCode-Solved-Book/tree/master/2409-count-days-spent-together) |
